@@ -1,2 +1,2 @@
-# Font-Recognition-DeepFont
+# font-recognition-DeepFont
 DeepFont Keras implementation
